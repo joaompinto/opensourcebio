@@ -1,0 +1,24 @@
+Since 2016 I am the lead maintainer of the official https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode[Asciidoctor extension] for Visual Studio Code, I also maintain a https://marketplace.visualstudio.com/items?itemName=joaompinto.vscode-graphviz[ GraphViz language support extension].
+
+Since 2019 I am the single developer of http://www.openpipe.org/[Openpipe], an open source data integration toolkit and https://github.com/Openpipe/QuickWeb[QuickWeb] a Rapid Web Development framework, both developed in Python.
+
+From 2006 to 2012 I was the lead developer of a non official Software Portal for Ubuntu, https://en.wikipedia.org/wiki/GetDeb[GetDeb]. This project included the development of a website (v1 using PHP), (v2 using Python) and a build system for "debian" packages:
+
+https://bazaar.launchpad.net/~getdeb-web-developers/getdeb-web/main/files[GetDeb Web Site (v1)]::
+PHP web application using the Model-View-Controller pattern through _Smarty_ templates and a MySQL database.
+
+https://bazaar.launchpad.net/~apt-portal-devs/apt-portal/devel/files)[GetDeb Web Site (v2)]::
+Python web application delivered through a custom app engine integrating _Mako_ templates _SQLAlchemy_.
+
+https://bazaar.launchpad.net/~debfactory-devs/debfactory/devel/files[DebFactory]::
+Automated system for building _.deb_ packages using chroot . 
+
+
+From 2000 and 2006 I was the lead developer of an IRC server software suite:
+
+https://github.com/joaompinto/ptlink.ircd/[PTlink IRC Server]::
+Single process, single threaded daemon written in C capable of handling a few thousands concurrent TCP clients. Developed from monolithic but widely tested upstream code.
+
+
+https://github.com/joaompinto/ptlink.irc.services/[PTlink IRC Services]::
+Single process, single threaded "bot" written in C++ that provided user/channels/message persistence services. Developed from scratch following a modular architecture, using event handlers and dynamic loadable libraries modules.
